@@ -1,0 +1,2 @@
+# locstoc
+stoctake helper
