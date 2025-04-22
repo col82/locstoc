@@ -160,5 +160,5 @@ Autosave successful
 
 ##  License
 
-MIT — free to use and modify.  
+GNU GPL v3.0 — free to use and modify.  
 Credit appreciated if you fork or build on it.
